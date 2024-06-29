@@ -1,5 +1,5 @@
 # Projeto E3 Site
-  Esse e um site para uma trabalho da faculdade referete a entrega do modulo 3, onde deveria transformar o prototipo de baixa e de alta fidelidade em codigo.
+  Esse e um site para uma trabalho da faculdade referente a entrega do modulo 3, onde deveria transformar o prototipo de baixa e de alta fidelidade em codigo.
 
 # Deploy Entrega 3
 https://77eduardo.github.io/siteCassavaE3/
